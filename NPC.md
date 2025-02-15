@@ -1,14 +1,17 @@
 # NPC
 
-C++实现存储器                               
+- C++实现存储器                               
+	- PC如何正确地访问寄存器 ===>                                 
+	- 放置指令到存储器中addi  ===> 
+	- ebreak执行若干条指令结束仿真，通过DPI-C机制实现Verilog和C++仿真环境的交互  ===>     
+	- chisel的BlackBox机制调用verilog ===>
 
- 0.PC如何正确地访问寄存器 ===>                                         
+- 
 
- 1.放置指令到存储器中addi  ===> 
 
- 2.ebreak执行若干条指令结束仿真，通过DPI-C机制实现Verilog和C++仿真环境的交互  ===>     
 
- 3.chisel的BlackBox机制调用verilog ===>
+
+
 
 
 
