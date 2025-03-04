@@ -86,7 +86,7 @@ asm volatile("mv a0, %0; ebreak" : :"r"(code));//把结束码移动到通用寄�
 
 - TRM运行时环境  链接脚本
 
-	
+	​			
 
 - 我们在`am-kernels/tests/cpu-tests/tests/add.c`中定义了宏`NR_DATA`, 同时也在`add()`函数中定义了局部变量`c`和形参`a`, `b`, 但你会发现在符号表中找不到和它们对应的表项, 为什么会这样? 思考一下, 什么才算是一个符号(symbol)?
 
@@ -225,6 +225,8 @@ Jump PC-relatice with 32-bit offset –> auipc x1,<hi20bits>  jalr x0,x1,<lo12bi
 
 
 
+
+
 # IOE
 
 - MMIO vs PIO
@@ -288,12 +290,6 @@ RISC-V32硬件保护机制： M–>S(OS)–> U(应用程序)，硬件中加入�
 
 
 
-
-
-
-
-
-
 # VME
 
 - Multi-Programming
@@ -303,4 +299,13 @@ RISC-V32硬件保护机制： M–>S(OS)–> U(应用程序)，硬件中加入�
 	-  执行流在进程之间相互切换
 
 
+
+
+
+# OS 
+
+-  [OSTEP](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+-  [jyy](https://jyywiki.cn/OS/2023/index.html)
+-  [6.s081](https://pdos.csail.mit.edu/6.S081/2021/schedule.html)
+-  [CS162](https://cs162.org/)
 
