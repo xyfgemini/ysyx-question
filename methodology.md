@@ -4,11 +4,11 @@
 
 - hands-on & get hands dirty
 
-- 不要局限/all in 一个方向，少想多尝试，关注业界学界前沿，看看大家都在做什么
+- 不要all in 一个方向，少想多尝试，关注业界学界前沿，看看大家都在做什么
 
 # project
 
-[Github](https://github.com/xyfgemini)开源社区：能跑移植魔改重构/提issue pr
+- [Github](https://github.com/xyfgemini)开源社区：能跑移植魔改重构/提issue pr
 
 # paper
 
