@@ -5,7 +5,7 @@
 
 # project
 
-- hands-on & get hands dirty，自己搭toy
+- coding能力: hands-on & get hands dirty，自己搭toy
 
 - [Github](https://github.com/xyfgemini)开源社区: 能跑移植拼接魔改重构/提issue & pr
 
