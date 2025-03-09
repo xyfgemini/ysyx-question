@@ -1,14 +1,13 @@
 # First
 
 - 任务/需求/问题驱动，结果导向
-
-- hands-on & get hands dirty
-
-- 不要all in 一个方向，少想多尝试，关注业界学界前沿，看看大家都在做什么
+- 不要all in 一个方向，少想多尝试，关注业界/学界前沿，看看大家都在做什么
 
 # project
 
-- [Github](https://github.com/xyfgemini)开源社区：能跑移植魔改重构/提issue pr
+- hands-on & get hands dirty，自己搭toy
+
+- [Github](https://github.com/xyfgemini)开源社区: 能跑移植拼接魔改重构/提issue & pr
 
 # paper
 
